@@ -2,7 +2,7 @@ import statistics
 
 # Ejemplo de uso del módulo statistics
 
-datos = [10, 20, 30, 40, 50]
+datos = [20, 40, 60, 80, 100]
 
 media = statistics.mean(datos)
 print("La media es:", media)
